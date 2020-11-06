@@ -56,7 +56,7 @@ DDL: 11/6 (Friday)
     - Chance of Admit ( ranging from 0 to 1 )
     
 
-- Model (Mimi)
+- Model (Mimi) <br>
   The study plans to predict Chance of Admit with the probablity by using the raw data mentioned for the input. 
   Different models, including Bayesian, SVM and DNN, would be  
   - Input: Collected from Github
