@@ -1,7 +1,7 @@
 # CS_Grad_Admission
-CS4602 Introduction to Machine Learning 
-Final Project Proposal
-Team 23
+CS4602 Introduction to Machine Learning <br>
+Final Project Proposal <br>
+Team 23 <br>
 
 | Name   	|      	| SID       	|
 |--------	|------	|-----------	|
@@ -17,7 +17,8 @@ DDL: 11/6 (Friday)
 
 - https://medium.com/analytics-vidhya/a-fresh-look-at-graduate-admissions-dataset-d39e4d20803e (Mimi)
 - https://towardsdatascience.com/graduate-admission-prediction-using-machine-learning-8e09ba1af359 (Amy)
-- https://debarghyadas.com/writes/the-grad-school-statistics-we-never-had/ (Lear)
+- https://debarghyadas.com/writes/the-grad-school-statistics-we-never-had/ (Lear) <br>
+  The author of the article analyses graduate admission in the U.S. with GPA, GRE (Verbal, Quant), Citizenship.
 
 ## Methodology
 
