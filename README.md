@@ -16,7 +16,8 @@ DDL: 11/6 (Friday)
 ## Abstract (Amy)
 
 ### Literature review
-- https://medium.com/analytics-vidhya/a-fresh-look-at-graduate-admissions-dataset-d39e4d20803e (Mimi)
+- https://medium.com/analytics-vidhya/a-fresh-look-at-graduate-admissions-dataset-d39e4d20803e (Mimi) <br>
+  The research used a random forest model to study the relationship between the Chance of Admit and factors including GRE Score, TOEFL Score, the applied University Rating, SOP and LOR Strength, Undergraduate CGPA and Research Experience based on a graduate studies dataset for Indian students .
 - https://towardsdatascience.com/graduate-admission-prediction-using-machine-learning-8e09ba1af359 (Amy)
 - https://debarghyadas.com/writes/the-grad-school-statistics-we-never-had/ (Lear) <br>
   The author of the article analyses graduate admission in the U.S. with GPA, GRE (Verbal, Quant), Citizenship.
@@ -56,7 +57,8 @@ DDL: 11/6 (Friday)
     
 
 - Model (Mimi)
-
+  The study plans to predict Chance of Admit with the probablity by using the raw data mentioned for the input. 
+  Different models, including Bayesian, SVM and DNN, would be  
   - Input: Collected from Github
   - Output: [Admission/ Rejection/ Probably] + chance(%) 
   - Model: Bayes or SVM or DNN -> Shallow neural network (ensemble learning?)
