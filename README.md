@@ -57,8 +57,8 @@ DDL: 11/6 (Friday)
     
 
 - Model (Mimi) <br>
-  The study plans to predict Chance of Admit with the probablity in an ensemble learning approach. <br>
-  Two models would be built and trained based the two different datasets mentioned above. The third model would be using the outputs of the two former models to generate the final output. 
+  The study plans to predict the Chance of Admit with the probability in an ensemble learning approach. <br>
+  Two models would be built and trained based on the two different datasets mentioned above. The third model would be using the outputs of the two former models to generate the final output. 
 
 ## Planning Chart (Lear)
 
