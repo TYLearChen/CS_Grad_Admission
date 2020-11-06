@@ -57,11 +57,8 @@ DDL: 11/6 (Friday)
     
 
 - Model (Mimi) <br>
-  The study plans to predict Chance of Admit with the probablity by using the raw data mentioned for the input. 
-  Different models, including Bayesian, SVM and DNN, would be  
-  - Input: Collected from Github
-  - Output: [Admission/ Rejection/ Probably] + chance(%) 
-  - Model: Bayes or SVM or DNN -> Shallow neural network (ensemble learning?)
+  The study plans to predict Chance of Admit with the probablity in an ensemble learning approach. <br>
+  Two models would be built and trained based the two different datasets mentioned above. The third model would be using the outputs of the two former models to generate the final output. 
 
 ## Planning Chart (Lear)
 
