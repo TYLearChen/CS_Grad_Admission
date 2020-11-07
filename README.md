@@ -14,11 +14,13 @@ DDL: 11/6 (Friday)
 
 
 ## Abstract (Amy)
+  We noticed that most of the undergraduate students are struggling with graduate program admission. Therefore, this project tries to find the model that can predict the probability of getting an offer. Our users can input their information such as their GRE score or undergraduate GPA on our website, and the probability of getting admission will be displayed.
 
 ### Literature review
 - https://medium.com/analytics-vidhya/a-fresh-look-at-graduate-admissions-dataset-d39e4d20803e (Mimi) <br>
   The research used a random forest model to study the relationship between the Chance of Admit and factors including GRE Score, TOEFL Score, the applied University Rating, SOP and LOR Strength, Undergraduate CGPA and Research Experience based on a graduate studies dataset for Indian students .
 - https://towardsdatascience.com/graduate-admission-prediction-using-machine-learning-8e09ba1af359 (Amy)
+  This article used dataset from kaggle, (https://www.kaggle.com/mohansacharya/graduate-admissions), and used the RandomForestRegressor to find important features which are CGPA, GRE, and TOEFL score for graduate admission.
 - https://debarghyadas.com/writes/the-grad-school-statistics-we-never-had/ (Lear) <br>
   The author of the article analyses graduate admission in the U.S. with GPA, GRE (Verbal, Quant), Citizenship.
 
