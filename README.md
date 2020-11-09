@@ -13,20 +13,21 @@ DDL: 11/6 (Friday)
 
 
 
-## Abstract (Amy)
-  We noticed that most of the undergraduate students are struggling with graduate program admission. Therefore, this project tries to find the model that can predict the probability of getting an offer. Our users can input their information such as their GRE score or undergraduate GPA on our website, and the probability of getting admission will be displayed.
+## Abstract
+
+  We noticed that most of the undergraduate students are struggling with graduate program admission. Therefore, this project tries to find the model that can predict the probability of getting an offer. Our users can input their information such as their GRE score or undergraduate GPA, and the probability of getting admission will be displayed.
 
 ### Literature review
-- https://medium.com/analytics-vidhya/a-fresh-look-at-graduate-admissions-dataset-d39e4d20803e (Mimi) <br>
+- https://medium.com/analytics-vidhya/a-fresh-look-at-graduate-admissions-dataset-d39e4d20803e <br>
   The research used a random forest model to study the relationship between the Chance of Admit and factors including GRE Score, TOEFL Score, the applied University Rating, SOP and LOR Strength, Undergraduate CGPA and Research Experience based on a graduate studies dataset for Indian students .
-- https://towardsdatascience.com/graduate-admission-prediction-using-machine-learning-8e09ba1af359 (Amy) <br>
+- https://towardsdatascience.com/graduate-admission-prediction-using-machine-learning-8e09ba1af359 <br>
   This article used dataset from kaggle, (https://www.kaggle.com/mohansacharya/graduate-admissions), and used the RandomForestRegressor to find important features which are CGPA, GRE, and TOEFL score for graduate admission.
-- https://debarghyadas.com/writes/the-grad-school-statistics-we-never-had/ (Lear) <br>
+- https://debarghyadas.com/writes/the-grad-school-statistics-we-never-had/ <br>
   The author of the article analyses graduate admission in the U.S. with GPA, GRE (Verbal, Quant), Citizenship.
 
 ## Methodology
 
-- Raw data (Lear)
+- Raw data
 
   There are two datasets used in the project (One from Kaggle. Another from GitHub).
   
@@ -58,11 +59,11 @@ DDL: 11/6 (Friday)
     - Chance of Admit ( ranging from 0 to 1 )
     
 
-- Model (Mimi) <br>
+- Model <br>
   The study plans to predict the Chance of Admit with the probability in an ensemble learning approach. <br>
   Two models would be built and trained based on the two different datasets mentioned above. The third model would be using the outputs of the two former models to generate the final output. 
 
-## Planning Chart (Lear)
+## Planning Chart
 
 |           Tasks 	|             Sub Task 	| 6.Nov 	| 12.Nov 	| ?.Nov 	| 26.Nov 	| 10.Dec 	| 20.Dec 	| 10.Jan 	|
 |----------------:	|---------------------:	|:-----:	|:------:	|:-----:	|:------:	|:------:	|:------:	|:------:	|
