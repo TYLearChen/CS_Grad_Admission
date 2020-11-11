@@ -22,11 +22,13 @@ Team 23 <br>
   The research used a random forest model to study the relationship between the Chance of Admit and factors including GRE Score, Undergraduate CGPA, Research Experience and more based on a graduate study dataset for Indian students. 
   
 - **[Graduate Admission Prediction Using Machine Learning](https://towardsdatascience.com/graduate-admission-prediction-using-machine-learning-8e09ba1af359)**
-  This researchers used the RandomForestRegressor to find important features which are CGPA, GRE, and TOEFL score for graduate admission. 
   
-  > Both papers above are based on a [kaggle dataset](https://www.kaggle.com/mohansacharya/graduate-admissions), which did not provide any information on how they gather the data.
+  This researchers used the RandomForestRegressor to find important features which are CGPA, GRE, and TOEFL score for graduate admission. 
+
+> Both papers above are based on a [kaggle dataset](https://www.kaggle.com/mohansacharya/graduate-admissions), which did not provide any information on how they gather the data.
   
 - **[The Grad School Admissions Statistics We Never Had](https://debarghyadas.com/writes/the-grad-school-statistics-we-never-had/)** 
+  
   The author of the article analyses graduate admission in the U.S. with GPA, GRE (Verbal, Quant), Citizenship. <br>
   
 - **[A Statistical Approach to Graduate Admissions’ Chance Prediction](https://link.springer.com/chapter/10.1007/978-981-15-2043-3_38#Abs1)**
@@ -34,7 +36,9 @@ Team 23 <br>
 - **[Apriori Algorithm and Decision Tree Classification Methods to Mine Educational Data for Evaluating Graduate Admissions to US Universities](https://link.springer.com/chapter/10.1007/978-981-15-1632-0_12)**
   
 - **[Will I Get in? Modeling the Graduate Admission Process for American Universities](https://ieeexplore.ieee.org/document/7836726)** 
+  
   The paper analyzed factors such as GPA, university reputation of a dataset more than 150,000 applications as a binary classification problem with latent variables that account for additional information. 
+
 
 ## Methodology
 
