@@ -33,7 +33,7 @@ Team 23 <br>
 
 ## Methodology
 
-- Raw data
+### Raw data
 
   There are two datasets used in the project (One from Kaggle. Another from GitHub).
   
@@ -97,7 +97,7 @@ Team 23 <br>
     The data comtains some other attribute. e.g. GRE, TOEFL, Univ Rating, SoP or LoR Strength, GPA, Research Exp, Chance of Admit
     
 
-- Model <br>
+### Model <br>
   The study plans to predict the Chance of Admit with the probability in an ensemble learning approach. <br>
   Two models would be built and trained based on the two different datasets mentioned above. The third model would be using the outputs of the two former models to generate the final output. 
 
