@@ -38,6 +38,7 @@ Team 23 <br>
   There are two datasets used in the project (One from Kaggle. Another from GitHub).
   
   - https://github.com/deedy/gradcafe_data
+  
     The data was collected from a on-line graduate school applaction forum and clean by the owner of the GitHub repository.
     The stored attributes includes 
     
@@ -52,6 +53,7 @@ Team 23 <br>
     - gre_writing
     
   - https://cogcomp.seas.upenn.edu/page/resource_view/127
+  
     This data set was collected for the graduate university admissions paper "Will I get in?" in late 2014. The data was scraped from edulix.com and is     presented here in csv format.
     
     - Program
@@ -88,6 +90,7 @@ Team 23 <br>
     
     
   - **[unreliable]** https://www.kaggle.com/mohansacharya/graduate-admissions
+  
     The data comtains some other attribute. e.g. GRE, TOEFL, Univ Rating, SoP or LoR Strength, GPA, Research Exp, Chance of Admit
     
 
