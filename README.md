@@ -37,7 +37,7 @@ Team 23 <br>
 
   There are two datasets used in the project (One from Kaggle. Another from GitHub).
   
-  - Gradcafe Data
+  - **Gradcafe Data**
   
     link: https://github.com/deedy/gradcafe_data <br>
     The data was collected from a on-line graduate school applaction forum and clean by the owner of the GitHub repository.
@@ -53,7 +53,7 @@ Team 23 <br>
     - gre_quant
     - gre_writing
     
-  - University Graduate Admissions data set
+  - **University Graduate Admissions data set**
     
     link: https://cogcomp.seas.upenn.edu/page/resource_view/127 <br>
     This data set was collected for the graduate university admissions paper "Will I get in?" in late 2014. The data was scraped from edulix.com and is     presented here in csv format.
