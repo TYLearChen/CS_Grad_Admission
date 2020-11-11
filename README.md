@@ -18,6 +18,7 @@ Team 23 <br>
 
 ## Literature review
 - **[A Fresh Look At The Graduate Admissions Dataset](https://medium.com/analytics-vidhya/a-fresh-look-at-graduate-admissions-dataset-d39e4d20803e)**
+
   The research used a random forest model to study the relationship between the Chance of Admit and factors including GRE Score, Undergraduate CGPA, Research Experience and more based on a graduate study dataset for Indian students. 
   
 - **[Graduate Admission Prediction Using Machine Learning](https://towardsdatascience.com/graduate-admission-prediction-using-machine-learning-8e09ba1af359)**
