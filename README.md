@@ -37,65 +37,65 @@ Team 23 <br>
 
   There are two datasets used in the project (One from Kaggle. Another from GitHub).
   
-  - **Gradcafe Data**
-  
-    link: https://github.com/deedy/gradcafe_data <br>
-    The data was collected from a on-line graduate school applaction forum and clean by the owner of the GitHub repository.
-    The stored attributes includes 
-    
-    - uni_name
-    - major
-    - degree
-    - season
-    - decision
-    - ugrad_gpa
-    - gre_verbal
-    - gre_quant
-    - gre_writing
-    
-  - **University Graduate Admissions data set**
-    
-    link: https://cogcomp.seas.upenn.edu/page/resource_view/127 <br>
-    This data set was collected for the graduate university admissions paper "Will I get in?" in late 2014. The data was scraped from edulix.com and is     presented here in csv format.
-    
-    - Program
-    - Term and Year
-    - Major
-    - University (will be) Attending
-    - GRE_Quantitative
-    - GRE_Verbal
-    - GRE_AWA
-    - TOEFL_Score
-    - TOEFL_TWE (Essay)
-    - IELTS_Score
-    - Previous_University
-    - Previous_Department
-    - Grade
-    - Topper's Grade
-    - Grade Scale
-    - Industrial Experience
-    - Internship Experience
-    - Research Experience
-    - Conference Publications
-    - Journal Publications
-    - Type of Finance Docs
-    - Type of Financial Aid
-    - Amount
-    - Undergraduate Arrears
-    - Applied University
-    - Destination Country
-    - Applied Visa Type
-    - Visa Consulate City
-    - Appointment Date
-    - Decision
-    - Other Miscellaneous Details
-    
-    
-  - **[unreliable]** Graduate Admission 2
+- **Gradcafe Data**
 
-    link: https://www.kaggle.com/mohansacharya/graduate-admissions <br>
-    The data comtains some other attribute. e.g. GRE, TOEFL, Univ Rating, SoP or LoR Strength, GPA, Research Exp, Chance of Admit
-    
+  link: https://github.com/deedy/gradcafe_data <br>
+  The data was collected from a on-line graduate school applaction forum and clean by the owner of the GitHub repository.
+  The stored attributes includes 
+
+  - uni_name
+  - major
+  - degree
+  - season
+  - decision
+  - ugrad_gpa
+  - gre_verbal
+  - gre_quant
+  - gre_writing
+
+- **University Graduate Admissions data set**
+
+  link: https://cogcomp.seas.upenn.edu/page/resource_view/127 <br>
+  This data set was collected for the graduate university admissions paper "Will I get in?" in late 2014. The data was scraped from edulix.com and is     presented here in csv format.
+
+  - Program
+  - Term and Year
+  - Major
+  - University (will be) Attending
+  - GRE_Quantitative
+  - GRE_Verbal
+  - GRE_AWA
+  - TOEFL_Score
+  - TOEFL_TWE (Essay)
+  - IELTS_Score
+  - Previous_University
+  - Previous_Department
+  - Grade
+  - Topper's Grade
+  - Grade Scale
+  - Industrial Experience
+  - Internship Experience
+  - Research Experience
+  - Conference Publications
+  - Journal Publications
+  - Type of Finance Docs
+  - Type of Financial Aid
+  - Amount
+  - Undergraduate Arrears
+  - Applied University
+  - Destination Country
+  - Applied Visa Type
+  - Visa Consulate City
+  - Appointment Date
+  - Decision
+  - Other Miscellaneous Details
+
+
+- **[unreliable]** Graduate Admission 2
+
+  link: https://www.kaggle.com/mohansacharya/graduate-admissions <br>
+  The data comtains some other attribute. e.g. GRE, TOEFL, Univ Rating, SoP or LoR Strength, GPA, Research Exp, Chance of Admit
+
 
 ### Model <br>
   The study plans to predict the Chance of Admit with the probability in an ensemble learning approach. <br>
