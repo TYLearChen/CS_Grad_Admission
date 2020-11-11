@@ -39,7 +39,7 @@ Team 23 <br>
   
   - Gradcafe Data
   
-    link: https://github.com/deedy/gradcafe_data
+    link: https://github.com/deedy/gradcafe_data <br>
     The data was collected from a on-line graduate school applaction forum and clean by the owner of the GitHub repository.
     The stored attributes includes 
     
@@ -55,7 +55,7 @@ Team 23 <br>
     
   - University Graduate Admissions data set
     
-    link: https://cogcomp.seas.upenn.edu/page/resource_view/127
+    link: https://cogcomp.seas.upenn.edu/page/resource_view/127 <br>
     This data set was collected for the graduate university admissions paper "Will I get in?" in late 2014. The data was scraped from edulix.com and is     presented here in csv format.
     
     - Program
@@ -93,7 +93,7 @@ Team 23 <br>
     
   - **[unreliable]** Graduate Admission 2
 
-    https://www.kaggle.com/mohansacharya/graduate-admissions
+    link: https://www.kaggle.com/mohansacharya/graduate-admissions <br>
     The data comtains some other attribute. e.g. GRE, TOEFL, Univ Rating, SoP or LoR Strength, GPA, Research Exp, Chance of Admit
     
 
