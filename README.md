@@ -21,19 +21,25 @@ Team 23 <br>
 
   The research used a random forest model to study the relationship between the Chance of Admit and factors including GRE Score, Undergraduate CGPA, Research Experience and more based on a graduate study dataset for Indian students. 
   
+  
 - **[Graduate Admission Prediction Using Machine Learning](https://towardsdatascience.com/graduate-admission-prediction-using-machine-learning-8e09ba1af359)**
   
   This researchers used the RandomForestRegressor to find important features which are CGPA, GRE, and TOEFL score for graduate admission. 
 
 > Both papers above are based on a [kaggle dataset](https://www.kaggle.com/mohansacharya/graduate-admissions), which did not provide any information on how they gather the data.
   
+  
 - **[The Grad School Admissions Statistics We Never Had](https://debarghyadas.com/writes/the-grad-school-statistics-we-never-had/)** 
   
   The author of the article analyses graduate admission in the U.S. with GPA, GRE (Verbal, Quant), Citizenship. <br>
   
+  
 - **[A Statistical Approach to Graduate Admissions’ Chance Prediction](https://link.springer.com/chapter/10.1007/978-981-15-2043-3_38#Abs1)**
   
+  
+  
 - **[Apriori Algorithm and Decision Tree Classification Methods to Mine Educational Data for Evaluating Graduate Admissions to US Universities](https://link.springer.com/chapter/10.1007/978-981-15-1632-0_12)**
+  
   
 - **[Will I Get in? Modeling the Graduate Admission Process for American Universities](https://ieeexplore.ieee.org/document/7836726)** 
   
@@ -46,18 +52,17 @@ Team 23 <br>
 
   There are two datasets used in the project (One from Kaggle. Another from GitHub).
   
-- **Gradcafe Data**
+- **[Gradcafe Data](https://github.com/deedy/gradcafe_data)**
 
-  link: https://github.com/deedy/gradcafe_data <br>
   The data was collected from a on-line graduate school applaction forum and clean by the owner of the GitHub repository.
   The stored attributes includes 
 
-- **University Graduate Admissions data set**
+- **[University Graduate Admissions data set](https://cogcomp.seas.upenn.edu/page/resource_view/127)**
 
-  link: https://cogcomp.seas.upenn.edu/page/resource_view/127 <br>
+  link:  <br>
   This data set was collected for the graduate university admissions paper "Will I get in?" in late 2014. The data was scraped from edulix.com and is     presented here in csv format.
 
-- **[Unreliable] _Graduate Admission 2_**
+- **[Unreliable] _Graduate Admission 2_()**
 
   link: https://www.kaggle.com/mohansacharya/graduate-admissions <br>
   The data comtains some other attribute. e.g. GRE, TOEFL, Univ Rating, SoP or LoR Strength, GPA, Research Exp, Chance of Admit
