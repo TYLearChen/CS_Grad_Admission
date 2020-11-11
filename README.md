@@ -40,11 +40,13 @@ _Both papers above are based on a [kaggle dataset](https://www.kaggle.com/mohans
 - **[A Statistical Approach to Graduate Admissions’ Chance Prediction](https://link.springer.com/chapter/10.1007/978-981-15-2043-3_38#Abs1)**
 
   link: https://link.springer.com/chapter/10.1007/978-981-15-2043-3_38#Abs1 <br>
+  This study deployed gradient boosting regressor model to analyze the relationship of university rating and student’s academic achievements, and computed performance error.
   
   
 - **[Apriori Algorithm and Decision Tree Classification Methods to Mine Educational Data for Evaluating Graduate Admissions to US Universities](https://link.springer.com/chapter/10.1007/978-981-15-1632-0_12)**
 
   link: https://link.springer.com/chapter/10.1007/978-981-15-1632-0_12 <br>
+  This study applied Apriori methods and Decision Tree Classification to outline the requirements for admissions to universities with top-, mid-, and lower ranking.
   
   
 - **[Will I Get in? Modeling the Graduate Admission Process for American Universities](https://ieeexplore.ieee.org/document/7836726)** 
