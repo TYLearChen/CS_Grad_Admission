@@ -17,27 +17,23 @@ Team 23 <br>
   We noticed that most of the undergraduate students are struggling with graduate program admission. Therefore, this project tries to find the model that can predict the probability of getting an offer. Our users can input their information such as their GRE score or undergraduate GPA, and the probability of getting admission will be displayed.
 
 ## Literature review
-- **A Fresh Look At The Graduate Admissions Dataset**
-  link: https://medium.com/analytics-vidhya/a-fresh-look-at-graduate-admissions-dataset-d39e4d20803e <br>
+- **[A Fresh Look At The Graduate Admissions Dataset](https://medium.com/analytics-vidhya/a-fresh-look-at-graduate-admissions-dataset-d39e4d20803e)**
   The research used a random forest model to study the relationship between the Chance of Admit and factors including GRE Score, Undergraduate CGPA, Research Experience and more based on a graduate study dataset for Indian students. 
   
-- **Graduate Admission Prediction Using Machine Learning**
-  link: https://towardsdatascience.com/graduate-admission-prediction-using-machine-learning-8e09ba1af359 <br>
-  This article used dataset from kaggle, (https://www.kaggle.com/mohansacharya/graduate-admissions), and used the RandomForestRegressor to find important features which are CGPA, GRE, and TOEFL score for graduate admission. 
+- **[Graduate Admission Prediction Using Machine Learning](https://towardsdatascience.com/graduate-admission-prediction-using-machine-learning-8e09ba1af359)**
+  This researchers used the RandomForestRegressor to find important features which are CGPA, GRE, and TOEFL score for graduate admission. 
   
-  > Both papers above are based on a kaggle dataset, which did not provide any information on how they gather the data.
+  > Both papers above are based on a [kaggle dataset](https://www.kaggle.com/mohansacharya/graduate-admissions), which did not provide any information on how they gather the data.
   
-- **[The Grad School Admissions Statistics We Never Had]** (https://debarghyadas.com/writes/the-grad-school-statistics-we-never-had/)
+- **[The Grad School Admissions Statistics We Never Had](https://debarghyadas.com/writes/the-grad-school-statistics-we-never-had/)** 
   The author of the article analyses graduate admission in the U.S. with GPA, GRE (Verbal, Quant), Citizenship. <br>
   
-- **A Statistical Approach to Graduate Admissions’ Chance Prediction**
-  link: https://link.springer.com/chapter/10.1007/978-981-15-2043-3_38#Abs1 <br>
+- **[A Statistical Approach to Graduate Admissions’ Chance Prediction](https://link.springer.com/chapter/10.1007/978-981-15-2043-3_38#Abs1)**
   
-- **Apriori Algorithm and Decision Tree Classification Methods to Mine Educational Data for Evaluating Graduate Admissions to US Universities**
-  link: https://link.springer.com/chapter/10.1007/978-981-15-1632-0_12 <br>
+- **[Apriori Algorithm and Decision Tree Classification Methods to Mine Educational Data for Evaluating Graduate Admissions to US Universities](https://link.springer.com/chapter/10.1007/978-981-15-1632-0_12)**
   
-- **[Will I Get in? Modeling the Graduate Admission Process for American Universities]** (https://ieeexplore.ieee.org/document/7836726)
-  The paper analyzed factors such as GPA, university reputation of a dataset more than 150,000 applications as a binary classification problem with latent variables that account for additional information. <br>
+- **[Will I Get in? Modeling the Graduate Admission Process for American Universities](https://ieeexplore.ieee.org/document/7836726)** 
+  The paper analyzed factors such as GPA, university reputation of a dataset more than 150,000 applications as a binary classification problem with latent variables that account for additional information. 
 
 ## Methodology
 
