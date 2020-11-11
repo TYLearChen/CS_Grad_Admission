@@ -48,7 +48,7 @@ Team 23 <br>
   link: https://cogcomp.seas.upenn.edu/page/resource_view/127 <br>
   This data set was collected for the graduate university admissions paper "Will I get in?" in late 2014. The data was scraped from edulix.com and is     presented here in csv format.
 
-- **[Unreliable] *Graduate Admission 2* **
+- **[Unreliable] _Graduate Admission 2_**
 
   link: https://www.kaggle.com/mohansacharya/graduate-admissions <br>
   The data comtains some other attribute. e.g. GRE, TOEFL, Univ Rating, SoP or LoR Strength, GPA, Research Exp, Chance of Admit
