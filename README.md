@@ -63,6 +63,7 @@ Team 23 <br>
 | Major                          	|          CS          	|    ☑️   	|     ☑️    	|    ☑️   	|
 | GRE(Q&V)                       	|          170         	|    ☑️   	|     ☑️    	|    ☑️   	|
 | GRE(AWA)                       	|          170         	|    ☑️   	|     ☑️    	|    ☑️   	|
+| Other Miscellaneous Details    	|       (Comment)      	|    ☑️   	|     ☑️     	|        	|
 | Grade                          	|          99          	|    ☑️   	|     ☑️    	|    ☑️   	|
 | Topper's Grade                 	|          99          	|    ☑️   	|          	|        	|
 | Grade Scale                    	|          100         	|    ☑️   	|          	|        	|
@@ -77,7 +78,6 @@ Team 23 <br>
 | Conference Publications        	|           2          	|    ☑️   	|          	|        	|
 | Journal Publications           	|           2          	|    ☑️   	|          	|        	|
 | Destination Country            	|        Taiwan        	|    ☑️   	|          	|        	|
-| Other Miscellaneous Details    	|       (Comment)      	|    ☑️   	|          	|        	|
 | SoP/LoR Strength               	|           5          	|        	|          	|    ☑️   	|
 
 ### Model <br>
