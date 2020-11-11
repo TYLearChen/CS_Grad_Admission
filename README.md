@@ -9,7 +9,6 @@ Team 23 <br>
 | 郭冠廷 	| Mimi 	| 107062274 	|
 | 陳宗佑 	| Lear 	| 107062374 	|
 
-DDL: 11/6 (Friday)
 
 
 
@@ -19,7 +18,7 @@ DDL: 11/6 (Friday)
 
 ### Literature review
 - https://medium.com/analytics-vidhya/a-fresh-look-at-graduate-admissions-dataset-d39e4d20803e <br>
-  The research used a random forest model to study the relationship between the Chance of Admit and factors including GRE Score, TOEFL Score, the applied University Rating, SOP and LOR Strength, Undergraduate CGPA and Research Experience based on a graduate studies dataset for Indian students .
+  The research used a random forest model to study the relationship between the Chance of Admit and factors including GRE Score, Undergraduate CGPA, Research Experience and more based on a graduate study dataset for Indian students. However, the dataset, originated from kaggle, did not provide any information on how they gather the data.
 - https://towardsdatascience.com/graduate-admission-prediction-using-machine-learning-8e09ba1af359 <br>
   This article used dataset from kaggle, (https://www.kaggle.com/mohansacharya/graduate-admissions), and used the RandomForestRegressor to find important features which are CGPA, GRE, and TOEFL score for graduate admission.
 - https://debarghyadas.com/writes/the-grad-school-statistics-we-never-had/ <br>
