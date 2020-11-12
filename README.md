@@ -111,6 +111,8 @@ _Both papers above are based on a [kaggle dataset](https://www.kaggle.com/mohans
   The study plans to predict the Chance of Admit with the probability in an ensemble learning approach. <br>
   Two models would be built and trained based on the two different datasets mentioned above. The third model would be using the outputs of the two former models to generate the final output. 
 
+  ![model](./figure/model.png?raw=true)
+
 ## Planning Chart
 
 |           Tasks 	|             Sub Task 	| 6.Nov 	| 12.Nov 	| ?.Nov 	| 26.Nov 	| 10.Dec 	| 20.Dec 	| 10.Jan 	|
