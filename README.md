@@ -127,8 +127,8 @@ _Both papers above are based on a [kaggle dataset](https://www.kaggle.com/mohans
 
 ## Planning Chart
 
-|           Tasks 	|             Sub Task 	| 6.Nov 	| 12.Nov 	| ?.Nov 	| 26.Nov 	| 10.Dec 	| 20.Dec 	| 10.Jan 	|
-|----------------:	|---------------------:	|:-----:	|:------:	|:-----:	|:------:	|:------:	|:------:	|:------:	|
+|           Tasks 	|             Sub Task 	| 6.Nov 	| 12.Nov 	| 19.Nov 	| 26.Nov 	| 10.Dec 	| 20.Dec 	| 10.Jan 	|
+|-------------------|---------------------:	|:-----:	|:------:	|:-----:	|:------:	|:------:	|:------:	|:------:	|
 | 1. Proposal 	    |                      	|       	|        	|       	|        	|        	|        	|        	|
 |                 	|      1.1 First Draft 	|   ☑️    |        	|       	|        	|        	|        	|        	|
 |                 	|     1.2 Second Draft 	|       	|    ☑️   	|       	|        	|        	|        	|        	|
