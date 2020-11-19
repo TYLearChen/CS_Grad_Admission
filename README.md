@@ -11,10 +11,18 @@ Team 23 <br>
 
 
 
-
 ## Introduction
+  Many undergraduate students are struggling with graduate program admission in their final year. With limited amount of time and resource, it is unlikely to hand in numorous application. Therefore, it is important for them to decide on what schools and programs they are going to apply for carefully, as their chooses could greatly impact their future. Currently, however, these undergrads rely heavily on the results from their senoirs to decide what to apply, and there is not yet a functional application for them to see what field, within all the information they provide the school they are applying to, does each school value more. Therefore, the focus of this project to find a model that can predict the probability of a individual of getting an offer from a particular school. This way, students would be able to re-consider their applications and make the best decision out of it. 
 
-  We noticed that most of the undergraduate students are struggling with graduate program admission. Therefore, this project tries to find the model that can predict the probability of getting an offer. Our users can input their information such as their GRE score or undergraduate GPA, and the probability of getting admission will be displayed.
+## Objective
+   This study hopes to develop a framework that help undergraduate students to get into their ideal graduate schools while saving their time and resources. In order to achieve this goal, the study consists of three key objectives. The first objective is regarding data analysis. With the two datasets available, data statistics, such as how the applicants data for each graduate school is distributed, is observed. Then, by deploying different machine learning models and evaluation their results, insights like the different category weighting are extracted and an estimation of Chance of Admit would be made. Lastly, we hope to provide a simple platform for users to input their information, such as their GRE score or undergraduate GPA, and display the probability of getting admitted, calculated by our models, to them.
+   
+   Objectives:
+   1. Perform data analysis from existed application data
+   2. Deploy models to predict the Chance of Admit percentage
+   3. Provide a simple platform for student to use it
+  
+
 
 ## Literature review
 - **[A Fresh Look At The Graduate Admissions Dataset](https://medium.com/analytics-vidhya/a-fresh-look-at-graduate-admissions-dataset-d39e4d20803e)**
