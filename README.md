@@ -120,7 +120,7 @@ _Both papers above are based on a [kaggle dataset](https://www.kaggle.com/mohans
   The study plans to predict the Chance of Admit with the probability in an ensemble learning approach. <br>
   Two models would be built and trained based on the two different datasets mentioned above. The third model would be using the outputs of the two former models to generate the final output. 
   <p align="center">
-    <img width="460" height="300" src=./figure/model.png?raw=true>
+    <img width="550" height="400" src=./figure/model.png?raw=true>
   </p>
   
 <!--- ![model](./figure/model.png?raw=true) --->
@@ -129,14 +129,14 @@ _Both papers above are based on a [kaggle dataset](https://www.kaggle.com/mohans
 
 |           Tasks 	|             Sub Task 	| 6.Nov 	| 12.Nov 	| ?.Nov 	| 26.Nov 	| 10.Dec 	| 20.Dec 	| 10.Jan 	|
 |----------------:	|---------------------:	|:-----:	|:------:	|:-----:	|:------:	|:------:	|:------:	|:------:	|
-|     1. Proposal 	|                      	|       	|        	|       	|        	|        	|        	|        	|
-|                 	|      1.1 First Draft 	|   ☑️   	|        	|       	|        	|        	|        	|        	|
+| 1. Proposal 	    |                      	|       	|        	|       	|        	|        	|        	|        	|
+|                 	|      1.1 First Draft 	|   ☑️    |        	|       	|        	|        	|        	|        	|
 |                 	|     1.2 Second Draft 	|       	|    ☑️   	|       	|        	|        	|        	|        	|
 |                 	|      1.3 Final Draft 	|       	|        	|   ☑️   	|        	|        	|        	|        	|
-|        2. Model 	|                      	|       	|        	|       	|        	|        	|        	|        	|
+| 2. Model 	        |                      	|       	|        	|       	|        	|        	|        	|        	|
 |                 	|     2.1 Loading data 	|       	|        	|       	|    ☑️   	|        	|        	|        	|
 |                 	|              2.2 SVM 	|       	|        	|       	|    ☑️   	|        	|        	|        	|
 |                 	|              2.3 ANN 	|       	|        	|       	|    ☑️   	|        	|        	|        	|
 |                 	| 2.4 Combining models 	|       	|        	|       	|        	|    ☑️   	|        	|        	|
-|       3. Report 	|                      	|       	|        	|       	|        	|        	|    ☑️   	|        	|
+| 3. Report 	      |                      	|       	|        	|       	|        	|        	|    ☑️   	|        	|
 | 4. Presentation 	|                      	|       	|        	|       	|        	|        	|        	|    ☑️   	|
