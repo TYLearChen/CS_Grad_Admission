@@ -120,14 +120,11 @@ _Both papers above are based on a [kaggle dataset](https://www.kaggle.com/mohans
   The study plans to predict the Chance of Admit with the probability in an ensemble learning approach. <br>
   Two models would be built and trained based on the two different datasets mentioned above. The third model would be using the outputs of the two former models to generate the final output. 
   <p align="center">
-  ![model](./figure/model.png?raw=true)
+    <img width="460" height="300" src=./figure/model.png?raw=true>
   </p>
-
-
-## Expected results 
-  Our users will be asked to give their application information, academic performance, and research output. Application information includes the following, applied university, program, and major. The academic performance consists of GRE score,  undergraduate GPA, TOEFL score, and IELTS score. In terms of research output, users will be asked to give the amount of conference and journal publications they have. Given the above information, our model which is based on two datasets, Edulix and Gradcafe, will give the chance (0<=P<=1) to indicate the probability of the student receiving the offer.
   
-  
+<!--- ![model](./figure/model.png?raw=true) --->
+
 ## Planning Chart
 
 |           Tasks 	|             Sub Task 	| 6.Nov 	| 12.Nov 	| ?.Nov 	| 26.Nov 	| 10.Dec 	| 20.Dec 	| 10.Jan 	|
