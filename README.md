@@ -123,7 +123,7 @@ _Both papers above are based on a [kaggle dataset](https://www.kaggle.com/mohans
     <img width="550" height="400" src=./figure/model.png?raw=true>
   </p>
   
-<!--- ![model](./figure/model.png?raw=true) --->
+<!--- ![model](./figures/model.png?raw=true) --->
 
 ## Expected result
   Our users will be asked to give their application information, academic performance, and research output. Application information includes the following, applied university, program, and major. The academic performance consists of GRE score,  undergraduate GPA, TOEFL score, and IELTS score. In terms of research output, users will be asked to give the amount of conference and journal publications they have. Given the above information, our model which is based on two datasets, Edulix and Gradcafe, will give the chance (0<=P<=1) to indicate the probability of the student receiving the offer.
